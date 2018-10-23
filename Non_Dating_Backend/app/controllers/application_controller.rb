@@ -8,6 +8,7 @@ class ApplicationController < ActionController::API
  #      token: generate_token(user)
  #    }
  #  end
+ 
  #  def generate_token(user)
  #    user_id = user.id
  #    JWT.encode({ "user_id": user.id }, jwt_password, 'HS256')
