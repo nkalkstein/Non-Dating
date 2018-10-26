@@ -5,6 +5,7 @@ import './App.css';
 //Display many different, very specific "make or break" attributes (physical, personality, or other).
 //Weigh matching attributes against non-matching and product a score?
 // Specify the matching and non-matcbing attributes?
+//No photos necessary?
 
 
 class App extends Component {
