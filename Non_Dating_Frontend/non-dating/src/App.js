@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+//Display many different, very specific "make or break" attributes (physical, personality, or other).
+//Weigh matching attributes against non-matching and product a score?
+// Specify the matching and non-matcbing attributes?
+
+
 class App extends Component {
   render() {
     return (
