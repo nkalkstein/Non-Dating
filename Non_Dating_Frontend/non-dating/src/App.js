@@ -7,6 +7,8 @@ import './App.css';
 // Specify the matching and non-matcbing attributes?
 // No photos necessary?
 // Anonymously show photos and have attractiveness (maybe different qualitites?) voted on, for final score.
+// Separately, actual "profile" will show no photo, but will show 'objective' attractiveness score.
+// Combined with make or break attributes, importance of physical appearance (subdivided?) will determine final compatibility score.
 
 class App extends Component {
   render() {
@@ -14,17 +16,9 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          <h1>
+            Non-Dating App
+          </h1>
         </header>
       </div>
     );
