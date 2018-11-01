@@ -10,12 +10,15 @@ import './App.css';
 // Separately, actual "profile" will show no photo, but will show 'objective' attractiveness score.
 // Combined with make or break attributes, importance of physical appearance (subdivided?) will determine final compatibility score.
 
+//Mobile app could allow for blind dates.   or blind dates within their desired profile.
+//AI created digital photo ideal match?  Or of user themselves?  
+
 class App extends Component {
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src="" className="App-logo" alt="logo" />
           <h1>
             Non-Dating App
           </h1>
