@@ -2,9 +2,11 @@
 //Weigh matching attributes against non-matching and product a score?
 // Specify the matching and non-matcbing attributes?
 // No photos necessary?
+
 // Anonymously show photos and have attractiveness (maybe different qualitites?) voted on, for final score.
 // Separately, actual "profile" will show no photo, but will show 'objective' attractiveness score.
 // Combined with make or break attributes, importance of physical appearance (subdivided?) will determine final compatibility score.
 
+
 //Mobile app could allow for blind dates.   or blind dates within their desired profile.
-//AI created digital photo ideal match?  Or of user themselves?  
+//AI created digital photo ideal match?  Or of user themselves?
